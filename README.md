@@ -5,3 +5,4 @@
 4. C3-Mini Hygrometer: [[Link](https://wokwi.com/projects/379860761904787457 'Hygrometer')]
 5. C3-Mini Motion detector: [[Link](https://wokwi.com/projects/379765052183862273)]
 6. C3-Mini Ultrasonic senosr: [link](https://wokwi.com/projects/383932440914521089)]
+7. C3.Mini  MicroPython MQTT Weather Logger (ESP32): [[Link](https://wokwi.com/projects/384749336231700481 'C3-Mini MicroPython MQTT Weather Logger (ESP32)')]
